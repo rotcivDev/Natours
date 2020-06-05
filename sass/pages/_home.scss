@@ -16,7 +16,8 @@
   transform: skewY(-7deg);
   margin-top: -10rem;
 
-  & > * { /* > = select direct child*/
+  & > * {
+    /* > = select direct child*/
     transform: skewY(7deg);
   }
 }
